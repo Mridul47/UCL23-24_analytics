@@ -14,3 +14,10 @@ These are the analysis I did in this projects
 => Having the sum of the total goals scored by players of each nationality.
 => Sorting the data and selects the top 10 nationalities.
 => Plotting a bar chart to visualize the data.
+
+4) Correlation Analysis
+This heatmap shows how different match stats are connected.  
+### 🔹 Key Points:  
+1️⃣ **Finds Relationships** – Shows how stats like goals, assists, and possession affect each other.  
+2️⃣ **Color Meaning** – 🔴 Positive (both increase together), 🔵 Negative (one goes up, the other goes down).  
+3️⃣ **Why It Matters** – Helps understand what impacts a team’s performance and strategy.
