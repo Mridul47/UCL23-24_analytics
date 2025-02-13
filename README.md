@@ -21,3 +21,6 @@ This heatmap shows how different match stats are connected.
 1️⃣ **Finds Relationships** – Shows how stats like goals, assists, and possession affect each other.  
 2️⃣ **Color Meaning** – 🔴 Positive (both increase together), 🔵 Negative (one goes up, the other goes down).  
 3️⃣ **Why It Matters** – Helps understand what impacts a team’s performance and strategy.
+
+5) Average Attendance by Stage
+=> This analysis visualizes the average attendance for each stage of the tournament (e.g., F, SF, QF, R16, GR).
