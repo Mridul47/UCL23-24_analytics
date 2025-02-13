@@ -24,3 +24,6 @@ This heatmap shows how different match stats are connected.
 
 5) Average Attendance by Stage
 => This analysis visualizes the average attendance for each stage of the tournament (e.g., F, SF, QF, R16, GR).
+
+6) Tournament Winner Stats
+=> This is where the Real Madrid Team's analysis is dfone as they won the UEFA CHAMPIONS LEAGUE 2023/24.
